@@ -102,4 +102,9 @@ In order to complete this assignment, you must do the following:
 
 ### Grading
 
+
 This assignment will be graded via peer assessment.
+
+
+### Program 2
+* Placeholder for comments during development of program 2
